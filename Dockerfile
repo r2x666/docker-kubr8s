@@ -6,4 +6,3 @@ COPY html /usr/share/nginx/html
 
 CMD ["./wrapper.sh"]
 
-expose 8090
